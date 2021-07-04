@@ -1,0 +1,38 @@
+
+
+
+.row{
+/* width: 1000px;
+height: 300px; */
+margin: 0% auto;
+margin-bottom: 20px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: nowrap;
+
+}
+
+
+.col{
+height: 35px;
+width: 200px;
+background-color: rgb(28, 160, 127);
+
+}
+
+.col-2{
+
+background-color: rgb(28, 160, 127);
+height: 35px;
+width: 400px;
+
+}
+
+.col-3{
+height: 35px;
+width: 500px;
+background-color: rgb(28, 160, 127);
+
+
+}
